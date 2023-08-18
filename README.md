@@ -3,19 +3,39 @@ A classic tic-tac-toe game
 
 
 
-#Library stuffies
+# Library stuffies
 >What's the url? [Here!](https://www.dfat.gov.au/geo/bangladesh/bangladesh-country-brief)
+>
+>Is it a personal page or site?
+>
+>>Site
+>
 >What is it?:
->> [ ].com
+>> - [ ] .com
 >> 
->> [ ].net
+>> - [ ] .net
+>> - [x] .gov
+>> - [ ] .edu
+>> - [x] .au
+>> - [ ] Other ____
 >
->> [x ].gov
+> What are the credentials?
 >
->> [].edu
+>> - [x] Orginisation :Australian government
+>> - [ ] Individual: ___
 >
->> [x].au
+>What other sites discuss the author/organization?
+Which other sites use the website?
+>> - [ ] not many links
+>> - [x] many links
+>> - [ ] unreliable links
+>> - [ ] mainly academic links
 >
->> [] Other ____
+>When last updated?
+>
+>> - [ ] Recent
+>> - [ ] Not recent
+>> - [x] Not shown
+>> Date: ___
 >
 >
