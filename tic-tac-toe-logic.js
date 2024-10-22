@@ -25,11 +25,12 @@ function a1() {
       turn = !turn;
       console.log(`X${checkwin("X")}`);
       console.log(`O${checkwin("O")}`);
-    }
-  }
-  if(bot){
+        if(bot){
     calc_move();
   }
+    }
+  }
+
 }
 function a2() {
   if (game) {
@@ -47,11 +48,12 @@ function a2() {
       turn = !turn;
       console.log(`X${checkwin("X")}`);
       console.log(`O${checkwin("O")}`);
-    }
-  }
-  if(bot){
+        if(bot){
     calc_move();
   }
+    }
+  }
+
 }
 function a3() {
   if (game) {
@@ -69,11 +71,12 @@ function a3() {
       turn = !turn;
       console.log(`X${checkwin("X")}`);
       console.log(`O${checkwin("O")}`);
-    }
-  }
-  if(bot){
+        if(bot){
     calc_move();
   }
+    }
+  }
+
 }
 function b1() {
   if (game) {
@@ -91,11 +94,12 @@ function b1() {
       turn = !turn;
       console.log(`X${checkwin("X")}`);
       console.log(`O${checkwin("O")}`);
-    }
-  }
-  if(bot){
+        if(bot){
     calc_move();
   }
+    }
+  }
+
 }
 function b2() {
   if (game) {
@@ -113,11 +117,12 @@ function b2() {
       turn = !turn;
       console.log(`X${checkwin("X")}`);
       console.log(`O${checkwin("O")}`);
-    }
-  }
-  if(bot){
+        if(bot){
     calc_move();
   }
+    }
+  }
+
 }
 function b3() {
   if (game) {
@@ -135,11 +140,12 @@ function b3() {
       turn = !turn;
       console.log(`X${checkwin("X")}`);
       console.log(`O${checkwin("O")}`);
-    }
-  }
-  if(bot){
+        if(bot){
     calc_move();
   }
+    }
+  }
+
 }
 function c1() {
   if (game) {
@@ -157,11 +163,12 @@ function c1() {
       turn = !turn;
       console.log(`X${checkwin("X")}`);
       console.log(`O${checkwin("O")}`);
-    }
-  }
-  if(bot){
+        if(bot){
     calc_move();
   }
+    }
+  }
+
 }
 function c2() {
   if (game) {
@@ -179,11 +186,12 @@ function c2() {
       turn = !turn;
       console.log(`X${checkwin("X")}`);
       console.log(`O${checkwin("O")}`);
-    }
-  }
-  if(bot){
+        if(bot){
     calc_move();
   }
+    }
+  }
+
 }
 function c3() {
   if (game) {
@@ -201,11 +209,12 @@ function c3() {
       turn = !turn;
       console.log(`X${checkwin("X")}`);
       console.log(`O${checkwin("O")}`);
-    }
-  }
-  if(bot){
+        if(bot){
     calc_move();
   }
+    }
+  }
+
 }
 function checkwin(player) {
   if (
